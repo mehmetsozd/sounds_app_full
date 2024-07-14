@@ -10,6 +10,6 @@ Kurtlar Vadisi dizisinin karakterlerinin dizi içerisindeki raconlar kesitlerini
 
 UYGULAMAYI GOOGLE PLAY STORE'DAN İNDİRMEK İÇİN AŞAĞIDAKİ BAĞLANTIYA TIKLAYIN:
 
-[![GOOGLE PLAY](https://play.google.com/store/apps/details?id=com.kv_racon_frontend&hl=tr)](GOOGLE_PLAY_STORE_LİNKİ)
+[![Kurtlar Vadisi Raconlar](https://play.google.com/store/apps/details?id=com.kv_racon_frontend&hl=tr)](GOOGLE_PLAY_STORE_LİNKİ)
 
 
